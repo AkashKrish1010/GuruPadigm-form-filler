@@ -19,7 +19,7 @@ A Python automation script using **Selenium** to auto-fill Gurupadigm Google For
   ```bash
   pip install selenium webdriver-manager
 
-##⚙️ Setup
+## ⚙️ Setup
 ```bash
 git clone https://github.com/akashkrish1010/gurupadigm-form-filler.git
 cd gurupadigm-form-filler
@@ -34,23 +34,23 @@ person_data = {
 }
 DEPARTMENT_NAME = "Mentor Dept"
 ```
-##▶️ Run Script
+## ▶️ Run Script
 ```bash
 python guru_auto_form.py
 ```
 
-##⚠️ Notes
+## ⚠️ Notes
 Chrome must be closed on first run
 
 Script exits after manual confirmation
 
 Chrome auto-closes if open during profile copy
 
-👨‍💻 Author
+## 👨‍💻 Author
 Akash Krish
 🔗 github.com/akashkrish1010
 
-📄 License
+## 📄 License
 MIT License
 
 
